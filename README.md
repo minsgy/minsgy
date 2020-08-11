@@ -1,4 +1,4 @@
-😁 Hello! This is Minsgy, GitHub.  
+😁 Hello! This is Minsgy, GitHub Page  
 
 
 💻 belong to organization  SCH-Likelion 8th management 🦁  

@@ -1,4 +1,4 @@
-<div align=center>
+
 😁 Hello! This is Minsgy, GitHub Page  
 
 
@@ -8,9 +8,13 @@
 🤩 Programming I Have Learned **C, C++, JAVA, Django, HTML/CSS, JSP, Python** ...  
 
 
+😏 I will commit every day.  
+
+
+
   
   
- 
+<div align=center>
 
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://minsgy.github.io/)](https://minsgy.github.io/)

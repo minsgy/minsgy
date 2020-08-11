@@ -19,7 +19,7 @@
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://minsgy.github.io/)](https://minsgy.github.io/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbn-tw2020)](https://hits.seeyoufarm.com)
-<img src="https://img.shields.io/github/followers/?style=social">
+<img src="https://img.shields.io/github/followers/minsgy?style=social">
 ---
 
 

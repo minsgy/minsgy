@@ -15,11 +15,8 @@
 🔍 [Notion 포트폴리오](https://www.notion.so/2d15dcbec9d144fd9c1ba8d850f721de)  
   
   
-<div align=center>
-
+<div align=center>  
   
-
-![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/min_sgy/)
 ---
 
 

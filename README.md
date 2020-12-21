@@ -19,8 +19,7 @@
 
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://minsgy.github.io/)](https://minsgy.github.io/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/min_sgy/)](https://www.instagram.com/min_sgy/)
-<img src="https://img.shields.io/github/followers/minsgy?style=social">
+[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/min_sgy/)]
 ---
 
 

@@ -21,6 +21,6 @@
 ---
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minsgy&show_icons=true&theme=graywhite )](https://github.com/anuraghazra/github-readme-stats)
+[![Minsgy Card](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/minsgy/github-profile-summary-cards)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsgy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>

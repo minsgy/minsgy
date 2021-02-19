@@ -21,6 +21,6 @@
 ---
 
 
-[![Minsgy Card](https://raw.githubusercontent.com/minsgy/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/minsgy/github-profile-summary-cards)
+[![Minsgy Card](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/minsgy/github-profile-summary-cards)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsgy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>

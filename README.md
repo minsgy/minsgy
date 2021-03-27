@@ -2,7 +2,7 @@
 😁 Hello! This is Minsgy, GitHub Page  
 
 
-💻 belong to organization  SCH-Likelion 8th Organizer 🦁  
+💻 belong to organization  SCH-Likelion 8th/9th Organizer 🦁  
 
 
 🤩 Programming I Have Learned **C, C++, JAVA, Django, HTML/CSS, JSP, Python** ...  

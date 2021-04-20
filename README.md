@@ -14,10 +14,8 @@
   
 🅱[velog](https://velog.io/@minsgy)   
 
+❤ 2021. 취준중
 
-
-
-  dfd
   
 <div align=center>  
   

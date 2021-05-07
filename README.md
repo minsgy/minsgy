@@ -14,7 +14,7 @@
   
 🅱[velog](https://velog.io/@minsgy)   
 
-❤ 2021. 취준중
+❤ 2021.
 
   
 <div align=center>  

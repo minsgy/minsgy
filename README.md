@@ -14,6 +14,8 @@
   
 🅱[velog](https://velog.io/@minsgy)   
 
+👨‍💻[Portfolio](https://minsgy.dev)   
+
 ❤ 2021.
 
   

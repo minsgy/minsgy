@@ -12,9 +12,7 @@
   
 🦁 Like Lion 8th Organizer(2020), 9th Representative Organizer(2021)  
   
-🅱[velog](https://velog.io/@minsgy)   
-
-👨‍💻[Portfolio](https://minsgy.dev)   
+🅱[velog](https://velog.io/@minsgy)  /  👨‍💻[Minsgy.dev](https://minsgy.dev)   
 
 ❤ 2021.
 

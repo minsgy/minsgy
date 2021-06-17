@@ -21,6 +21,6 @@
 
 <div align="center">
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minsgy)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minsgy)](https://velog.io/@minsgy)
 
 </div>

@@ -14,10 +14,13 @@
   
 <a href="https://velog.io/@minsgy" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>  <a href="https://minsgy.dev" target="_blank"><img src="https://img.shields.io/badge/Minsgy.Dev-EA7100?style=flat-square&logo=Devpost&logoColor=white"/></a> 
 
-  
-<div align=center>  
-  
+
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsgy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h3>최신 Velog 글 보기</h3>
+
+<div align="center">
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minsgy)](https://github.com/eungyeole/velog-readme-stats)
+
 </div>

@@ -33,8 +33,9 @@
 </div> 
   
   
+<div align='center'>
 <a href="https://velog.io/@minsgy" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>  <a href="https://minsgy.notion.site/6ffb18e77ca3487b895b447ccace3ae8" target="_blank"><img src="https://img.shields.io/badge/Portfolio-EA7100?style=flat-square&logo=Devpost&logoColor=white"/></a> 
-
+</div>
 
 ---
 

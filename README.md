@@ -27,7 +27,7 @@
 		<td>2021.07 - 2021.12 </td>
 		<td><a href="https://programmers.co.kr/learn/courses/12175">프로그래머스 데브 코스 프론트엔드 1st</a></td>
 		<td>프론트엔드 기술</td>
-		<td>수강생</td>
+		<td><a href="https://github.com/jung-dam-diary">[정담 프로젝트 FE 개발]</a></td>
 	</tr>
 	</table>
 </div> 

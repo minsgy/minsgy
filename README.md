@@ -27,7 +27,13 @@
 		<td>2021.07 - 2021.12 </td>
 		<td><a href="https://programmers.co.kr/learn/courses/12175">프로그래머스 데브 코스 프론트엔드 1st</a></td>
 		<td>프론트엔드 기술</td>
-		<td><a href="https://github.com/jung-dam-diary">[정담 프로젝트 FE 개발]</a></td>
+		<td><a href="https://github.com/jung-dam-diary">[정담 프로젝트]</a></td>
+	</tr>
+			<tr>
+		<td>2022.01 - ing</td>
+		<td><a href="https://dnd.ac/">DND 6th</a></td>
+		<td>ReactJS, Recoil</td>
+		<td>Web Frontend 파트 <br />현재 진행 중</td>
 	</tr>
 	</table>
 </div> 

@@ -33,7 +33,7 @@
 		<td>2022.01 - ing</td>
 		<td><a href="https://dnd.ac/">DND 6th</a></td>
 		<td>ReactJS, Recoil</td>
-		<td>Web Frontend 파트 <br />현재 진행 중</td>
+		<td>Web Frontend</td>
 	</tr>
 	</table>
 </div> 

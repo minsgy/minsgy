@@ -30,7 +30,7 @@
 		<td><a href="https://github.com/jung-dam-diary">[정담 프로젝트]</a></td>
 	</tr>
 			<tr>
-		<td>2022.01 - ing</td>
+		<td>2022.01 - 03</td>
 		<td><a href="https://dnd.ac/">DND 6th</a></td>
 		<td>ReactJS, Recoil</td>
 		<td>Web Frontend</td>

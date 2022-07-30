@@ -29,11 +29,17 @@
 		<td>프론트엔드 기술</td>
 		<td><a href="https://github.com/jung-dam-diary">[정담 프로젝트]</a></td>
 	</tr>
-			<tr>
+	<tr>
 		<td>2022.01 - 03</td>
 		<td><a href="https://dnd.ac/">DND 6th</a></td>
 		<td>ReactJS, Recoil</td>
 		<td>Web Frontend</td>
+	</tr>
+	<tr>
+		<td>2022.05 - </td>
+		<td><a>Futurewiz (Subsidiary of Dunamu)</a></td>
+		<td>UPBIT Backoffice 개발</td>
+		<td>Frontend</td>
 	</tr>
 	</table>
 </div> 

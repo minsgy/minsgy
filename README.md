@@ -36,7 +36,7 @@
 		<td>Web Frontend</td>
 	</tr>
 	<tr>
-		<td>2022.05 - </td>
+		<td>2022.05 - 08</td>
 		<td><a>Futurewiz (Subsidiary of Dunamu)</a></td>
 		<td>UPBIT Backoffice 개발</td>
 		<td>Frontend</td>

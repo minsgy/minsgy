@@ -13,7 +13,7 @@
 	</tr>
 		    	<tr>
 		<td>2020.01 - 2021.12</td>
-		<td><a href="https://www.likelion.net/">순천향대학교 웹프로그래밍동아리 멋쟁이사자처럼</a></td>
+		<td><a href="https://www.likelion.net/">웹프로그래밍동아리 멋쟁이사자처럼</a></td>
 		<td>HTML, CSS, Javascript, Django</td>
 		<td>8기 운영진, 9기 회장</td>
 	</tr>

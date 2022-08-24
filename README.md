@@ -8,7 +8,7 @@
 ---
 
 <p>	
-  - <b> <a href="https://www.socar.kr/">SOCAR (쏘카)</a> Web FrontEnd Developer</b> 2022. 09 ~ ing<br />
+  - <b> <a href="https://www.socar.kr/">SOCAR (쏘카)</a> Web FrontEnd Developer</b> 2022. 09 ~ 💨<br />
   - <b> <a href="https://www.futurewiz.co.kr/">Futurewiz (Subsidiary of Dunamu)</a> UPBIT Backoffice FrontEnd Developer</b> 2022. 05 ~ 2022. 08 <br />
 </p>
 

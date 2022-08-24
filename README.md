@@ -43,7 +43,7 @@
 	</tr>
 	<tr>
 		<td>2022.09 - <b>ing</b></td>
-		<td><a>SOCAR(쏘카)</a></td>
+		<td><a href="https://www.socar.kr/">SOCAR (쏘카)</a></td>
 		<td> - </td>
 		<td>Web Frontend Developer</td>
 	</tr>

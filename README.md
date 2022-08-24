@@ -9,11 +9,11 @@
 <div align="center">
 	<table>
 	<tr>
-		<th>활동 기간</th><th>활동명</th><th>기술스택</th><th>비고</th>
+		<th>활동 기간</th><th>활동명</th><th>상세</th><th>비고</th>
 	</tr>
 		    	<tr>
 		<td>2020.01 - 2021.12</td>
-		<td><a href="https://www.likelion.net/">웹프로그래밍동아리 멋쟁이사자처럼</a></td>
+		<td><a href="https://www.likelion.net/">연합IT동아리 멋쟁이사자처럼</a></td>
 		<td>HTML, CSS, Javascript, Django</td>
 		<td>8기 운영진, 9기 대표 운영진</td>
 	</tr>

@@ -15,7 +15,7 @@
 		<td>2020.01 - 2021.12</td>
 		<td><a href="https://www.likelion.net/">웹프로그래밍동아리 멋쟁이사자처럼</a></td>
 		<td>HTML, CSS, Javascript, Django</td>
-		<td>8기 운영진, 9기 회장</td>
+		<td>8기 운영진, 9기 대표 운영진</td>
 	</tr>
 	<tr>
 		<td>2021.03 - 2021.07</td>
@@ -40,6 +40,12 @@
 		<td><a>Futurewiz (Subsidiary of Dunamu)</a></td>
 		<td>UPBIT Backoffice 개발</td>
 		<td>Frontend</td>
+	</tr>
+	<tr>
+		<td>2022.09 - <b>ing</b></td>
+		<td><a>SOCAR(쏘카)</a></td>
+		<td> - </td>
+		<td>Web Frontend Developer</td>
 	</tr>
 	</table>
 </div> 

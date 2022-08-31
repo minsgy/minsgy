@@ -30,7 +30,7 @@ ___
 	<a href="https://minsgy.notion.site/Frontend-Developer-Minsgy-76b34b49d6fa44628af8c829ca74f21d" target="_blank">
 		<img src="https://img.shields.io/badge/Portfolio-EA7100?style=flat-square&logo=Devpost&logoColor=white"/>
 	</a> 
-	<a href="https://www.linkedin.com/in/minseok-choi-ab1b47202/">
+	<a href="https://www.linkedin.com/in/minsgy">
 		<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=LinkedIn">
 	</a>
 </div>

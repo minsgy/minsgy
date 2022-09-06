@@ -6,9 +6,9 @@
 ---
 
   **SOCAR (쏘카)** <sub><sup>Web FrontEnd Developer 2022. 09 ~ now </sub></sup>  
+  **Futurewiz (Subsidiary of Dunamu)** <sub><sup>UPBIT Backoffice FrontEnd Developer 2022. 05 ~ 2022. 08 </sub></sup>  
 ___
   
-  **Futurewiz (Subsidiary of Dunamu)** <sub><sup>UPBIT Backoffice FrontEnd Developer 2022. 05 ~ 2022. 08 </sub></sup>  
   **DND 6기** <sub><sup>Web FrontEnd Developer 2022.01 ~ 2022.03 </sub></sup>  
   **프로그래머스 데브 코스 프론트엔드 1기** <sub><sup>프로그래머스 데브 코스 프론트엔드 1기 수강 2021.07 ~ 2021.12 </sub></sup>  
   **UPF 2021 SS** <sub><sup>Web FrontEnd Developer 2021.03 ~ 2021.07 </sub></sup>  

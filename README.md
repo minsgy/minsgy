@@ -12,7 +12,7 @@ ___
   **DND 6기** <sub><sup>Web FrontEnd Developer 2022.01 ~ 2022.03 </sub></sup>  
   **프로그래머스 데브 코스 프론트엔드 1기** <sub><sup>프로그래머스 데브 코스 프론트엔드 1기 수강 2021.07 ~ 2021.12 </sub></sup>  
   **UPF 2021 SS** <sub><sup>Web FrontEnd Developer 2021.03 ~ 2021.07 </sub></sup>  
-  **멋쟁이사자처럼 대학** <sub><sup>프로그래머스 데브 코스 프론트엔드 1기 수강 2021.07 ~ 2021.12 </sub></sup>  
+  **멋쟁이사자처럼 대학** <sub><sup>8기 운영진, 9기 대표 운영진 2020.01 ~ 2021.12 </sub></sup>  
 
 
 <div align='center'>

@@ -6,7 +6,6 @@
 ---
   **[디프만](https://www.depromeet.com/) 12기** <sub><sup>Web FrontEnd Developer 2022. 09 ~ now </sub></sup>  
   **SOCAR (쏘카)** <sub><sup>Web FrontEnd Developer 2022. 09 ~ now </sub></sup>  
-  **Futurewiz (Subsidiary of Dunamu)** <sub><sup>UPBIT Backoffice FrontEnd Developer 2022. 05 ~ 2022. 08 </sub></sup>  
 ___
   
   **[DND](https://dnd.ac/)** <sub><sup>6기 Web FrontEnd Developer 2022.01 ~ 2022.03 </sub></sup>  

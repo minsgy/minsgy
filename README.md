@@ -26,12 +26,3 @@ ___
 	</a>
 </div>
 
----
-
-<h3>최신 Velog 글 보기</h3>
-
-<div align="center">
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minsgy)](https://velog.io/@minsgy)
-
-</div>

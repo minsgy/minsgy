@@ -15,9 +15,6 @@ ___
 
 
 <div align='center'>
-	<a href="https://velog.io/@minsgy" target="_blank">
-		<img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
-	</a>
 	<a href="https://minsgy.notion.site/Frontend-Developer-Minsgy-76b34b49d6fa44628af8c829ca74f21d" target="_blank">
 		<img src="https://img.shields.io/badge/Portfolio-EA7100?style=flat-square&logo=Devpost&logoColor=white"/>
 	</a> 

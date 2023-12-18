@@ -15,11 +15,12 @@ ___
 
 
 <div align='center'>
-	<a href="https://minsgy.notion.site/Frontend-Developer-Minsgy-76b34b49d6fa44628af8c829ca74f21d" target="_blank">
-		<img src="https://img.shields.io/badge/Portfolio-EA7100?style=flat-square&logo=Devpost&logoColor=white"/>
+	<a href="https://www.figma.com/file/dI4ZSHhwnWStoM0hmTxy7p/MINSGY_RESUME?type=design&node-id=0%3A1&mode=design&t=0xeEZpNSoKT2kcF4-1" target="_blank">
+		<img src="https://img.shields.io/badge/RESUME-EA7100?style=flat-square&logo=Devpost&logoColor=white"/>
 	</a> 
 	<a href="https://www.linkedin.com/in/minsgy">
 		<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=LinkedIn">
 	</a>
+	
 </div>
 

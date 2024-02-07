@@ -4,10 +4,9 @@
 👩🏻‍💻 Web Front-End Engineer  
 
 ---
-  **[디프만](https://www.depromeet.com/) 12기** <sub><sup>Web FrontEnd Developer 2022. 09 ~ now </sub></sup>  
   **[SOCAR](https://www.socar.kr/)(쏘카)** <sub><sup>Web FrontEnd Developer 2022. 09 ~ now </sub></sup>  
 ___
-  
+  **[디프만](https://www.depromeet.com/) 12기** <sub><sup>Web FrontEnd Developer 2022. 09 ~ 2023.01</sub></sup>  
   **[DND](https://dnd.ac/)** <sub><sup>6기 Web FrontEnd Developer 2022.01 ~ 2022.03 </sub></sup>  
   **[프로그래머스 데브 코스 프론트엔드](https://school.programmers.co.kr/learn/courses/14714)** <sub><sup>프로그래머스 데브 코스 프론트엔드 1기 수강 2021.07 ~ 2021.12 </sub></sup>  
   **[UPF](https://www.unit.center/upf) 2021 SS** <sub><sup>Web FrontEnd Developer 2021.03 ~ 2021.07 </sub></sup>  

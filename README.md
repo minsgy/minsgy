@@ -4,11 +4,11 @@
 👩🏻‍💻 Web Front-End Engineer  
 
 ---
-  **[Nexters](https://mash-up.kr/) 27기** <sub><sup>PM/Web Frontend Developer 2025. 07 ~ ing</sup></sub>  
   **[SmilegateRPG](https://www.smilegate.com/ko/)** <sub><sup>Web FrontEnd Developer 2025. 01 ~ ing</sub></sup>  
   **[SOCAR](https://www.socar.kr/) (쏘카)** <sub><sup>Web FrontEnd Developer 2022. 09 ~ 2024. 12</sub></sup>  
 ___
 
+  **[Nexters](https://mash-up.kr/) 27기** <sub><sup>PM/Web Frontend Developer 2025.07 ~ 08</sup></sub>  
   **[Mash-up](https://mash-up.kr/) 14기** <sub><sup>Web Frontend Developer 2024. 03 ~ 2024. 11</sup></sub>  
   **[디프만](https://www.depromeet.com/) 12기** <sub><sup>Web FrontEnd Developer 2022. 09 ~ 2023.01</sub></sup>  
   **[DND](https://dnd.ac/) 6기** <sub><sup> Web FrontEnd Developer 2022.01 ~ 2022.03 </sub></sup>  
